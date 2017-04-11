@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "b523a5bcf8d08725038873d89bb003fd",
+      "css": "twitter-circled",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "0a3e0e5caddaa9cb266e42b6495975e2",
+      "css": "pinterest-circled",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "bfaa824e96fa07779bc7b130b1216ce9",
+      "css": "vimeo-circled",
+      "code": 59396,
+      "src": "typicons"
+    },
+    {
+      "uid": "b714be5a812a474811604f700dfc87ce",
+      "css": "left-open-1",
+      "code": 61447,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "37910a1398001a5ccb541cb2a253a2c7",
+      "css": "right-open-1",
+      "code": 61446,
+      "src": "mfglabs"
+    }
+  ]
+}
